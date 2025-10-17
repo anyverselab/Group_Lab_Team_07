@@ -9,5 +9,7 @@ package grouplab1;
  * @author prash
  */
 public class Prasham {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello from Prasham!");
+    }
 }
